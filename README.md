@@ -1,44 +1,44 @@
-# vCard - Personal portfolio
+# Portfolio Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is my portfolio website showcasing my work and experience in data visualization, business analysis, and machine learning.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## View Portfolio
 
-## Demo
+You can view the portfolio website live at the following link:
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+[View Portfolio](https://achinna521.github.io/Portfolio/)
 
-## Prerequisites
+## Repository Contents
 
-Before you begin, ensure you have met the following requirements:
+The repository contains the following files:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### HTML
+- `index.html`: The main HTML file for the website.
 
-## Installing vCard
+### CSS
+- `style.css`: The CSS file for styling the website.
 
-To install **vCard**, follow these steps:
+### Images
+- `assets/images/`: Directory containing images used in the website.
+  - `icon-business-analysis.png`
+  - `icon-ml.png`
+  - `icon-powerbi.svg`
+  - `icon-sql.png`
+  - `avatar-1.png`
+  - `avatar-2.png`
+  - `avatar-3.png`
+  - `avatar.png`
+  - `Actual Vs Forecast.png`
+  - `customer-service-quality-dashboard.png`
+  - `customer-support-kpi-dashboard.png`
+  - `financial-dashboard.png`
+  - `hr-executive-dashboard.png`
+  - and other images...
 
-Linux and macOS:
+## How to Clone and Run Locally
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+If you want to clone the repository and run it locally, follow these steps:
 
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/achinna521/Portfolio.git
