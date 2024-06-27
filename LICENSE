@@ -1,0 +1,16 @@
+
+### Steps to Add the README.md to Your Repository
+
+1. **Create a `README.md` file locally**:
+   - Open your code editor and create a new file named `README.md`.
+
+2. **Copy the content above into the `README.md` file**.
+
+3. **Save the `README.md` file**.
+
+4. **Commit and push the `README.md` file to your GitHub repository**:
+   ```bash
+   git add README.md
+   git commit -m "Add README file"
+   git push origin main
+
